@@ -1,0 +1,10 @@
+C:\Users\Christian\Documents\CoPaDS\du\bin\MCD\Debug\netcoreapp2.0\du.deps.json
+C:\Users\Christian\Documents\CoPaDS\du\bin\MCD\Debug\netcoreapp2.0\du.runtimeconfig.json
+C:\Users\Christian\Documents\CoPaDS\du\bin\MCD\Debug\netcoreapp2.0\du.runtimeconfig.dev.json
+C:\Users\Christian\Documents\CoPaDS\du\bin\MCD\Debug\netcoreapp2.0\du.dll
+C:\Users\Christian\Documents\CoPaDS\du\bin\MCD\Debug\netcoreapp2.0\du.pdb
+C:\Users\Christian\Documents\CoPaDS\du\obj\MCD\Debug\netcoreapp2.0\du.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\CoPaDS\du\obj\MCD\Debug\netcoreapp2.0\du.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\CoPaDS\du\obj\MCD\Debug\netcoreapp2.0\du.AssemblyInfo.cs
+C:\Users\Christian\Documents\CoPaDS\du\obj\MCD\Debug\netcoreapp2.0\du.dll
+C:\Users\Christian\Documents\CoPaDS\du\obj\MCD\Debug\netcoreapp2.0\du.pdb

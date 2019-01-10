@@ -1,0 +1,10 @@
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\bin\MCD\Debug\netcoreapp2.0\helloWorld.deps.json
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\bin\MCD\Debug\netcoreapp2.0\helloWorld.runtimeconfig.json
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\bin\MCD\Debug\netcoreapp2.0\helloWorld.runtimeconfig.dev.json
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\bin\MCD\Debug\netcoreapp2.0\helloWorld.dll
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\bin\MCD\Debug\netcoreapp2.0\helloWorld.pdb
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\obj\MCD\Debug\netcoreapp2.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\obj\MCD\Debug\netcoreapp2.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\obj\MCD\Debug\netcoreapp2.0\helloWorld.AssemblyInfo.cs
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\obj\MCD\Debug\netcoreapp2.0\helloWorld.dll
+C:\Users\Christian\Documents\CoPaDS\example 1\helloWorld\obj\MCD\Debug\netcoreapp2.0\helloWorld.pdb
